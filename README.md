@@ -1,2 +1,2 @@
 # bounded-buffer-semaphore-solution
-Synchronization using semaphores
+Thread synchronization using semaphores
